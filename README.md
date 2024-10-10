@@ -27,3 +27,9 @@ text processing.
   - Indonesian (Native)
   - English (Intermediate)
   - Japanese ( Beginner) 
+
+
+### CV
+My CV Thanks for download
+
+[CV Dwis Aji.pdf](https://github.com/user-attachments/files/17322429/CV.Dwis.Aji.pdf)
