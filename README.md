@@ -20,6 +20,7 @@ text processing.
 ### Contact 📡
   - Linkedin [![https://www.linkedin.com/in/dwi-setyo-aji/](https://github.com/dwissaaj/dwissaaj/assets/71976179/227c691c-e548-4a15-ba3a-5dd7a294cf29)](https://www.linkedin.com/in/dwi-setyo-aji/)
   - Instagram [![skill-icons--instagram](https://github.com/dwissaaj/dwissaaj/assets/71976179/0c9c45fc-8b5e-4cc8-8f7d-d41f0f7dd528)](https://www.linkedin.com/in/dwi-setyo-aji/)
+  - Drive [For Film and Design](https://drive.google.com/drive/folders/13jNXBZnhBEzsT4ZqBIwTbOj_z3TohPuy?usp=drive_link)
 ### Website 
    - My Own [![icon-park--download-web (1)](https://github.com/dwissaaj/dwissaaj/assets/71976179/0455fa3e-68b9-4c7b-879c-1bcddc0fbc0e)](https://www.kisetsu.tech/)
    - Sakamichi Fanpage [![fluent-emoji--red-triangle (5)](https://github.com/dwissaaj/dwissaaj/assets/71976179/e5a5759f-ee59-4855-b756-41e4841864da)](https://sakamichi.online/)
@@ -28,8 +29,7 @@ text processing.
   - English (Intermediate)
   - Japanese ( Beginner) 
 
-
 ### CV
 My CV Thanks for download
 
-[CV Dwis Aji.pdf](https://github.com/user-attachments/files/17322429/CV.Dwis.Aji.pdf)
+[CV Dwis Aji.pdf](https://github.com/user-attachments/files/18244586/CV.Dwis.Aji.pdf)
